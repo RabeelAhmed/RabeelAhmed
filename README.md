@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rabeelsulehria3@gmail.com**
 
-- 📄 Know about my experiences [I have two years of experience in web development.](I have two years of experience in web development.)
+- 📄 Know about my experiences I have two years of experience in web development.
 
 - ⚡ Fun fact **🧠 Debug Ninja: I break things just so I can fix them again.**
 
