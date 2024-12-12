@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/RabeelAhmed?tab=repositories](https://github.com/RabeelAhmed?tab=repositories)
 
-- 💬 Ask me about **React, Framer Motion, Three JS, Fiber Js**
+- 💬 Ask me about **JS, React, Tailwind**
 
 - 📫 How to reach me **rabeelsulehria3@gmail.com**
 
